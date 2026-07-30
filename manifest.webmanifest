@@ -1,0 +1,23 @@
+{
+  "name": "SwipeTune",
+  "short_name": "SwipeTune",
+  "description": "Scegli i brani di una playlist con uno swipe.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#10101a",
+  "theme_color": "#10101a",
+  "icons": [
+    {
+      "src": "assets/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "assets/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
